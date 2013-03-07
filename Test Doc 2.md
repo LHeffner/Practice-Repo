@@ -2,6 +2,7 @@
 
 ##This is also a test.
 This is also a test.
+OK, I think this line should be added to this file. 
 
 ![Edgar](Edgar-sweater.png)
 
