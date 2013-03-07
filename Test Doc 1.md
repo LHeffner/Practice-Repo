@@ -1,5 +1,7 @@
 This is a Test
 
+Today is March 7. It's almost noon.
+
 This is a Test
 
 # Edgar is so cute! 
