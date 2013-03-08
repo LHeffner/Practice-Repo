@@ -1,5 +1,4 @@
-WAYNE CHANGED THIS SUCKA!!!!
-This is a Test
+WAYNE CHANGED THIS SUCKER!!!!
 
 Today is March 7. It's almost noon.
 Now it's 12:12 and we just talked to Nathaniel. 
@@ -14,6 +13,7 @@ This is NOT a test.
 
 Is this is a Test?
 
+This is a Test. Test this.
 This is a Test. Test this. I think this might actually be a test. Maybe Not?
 
 **This is a Test.**
