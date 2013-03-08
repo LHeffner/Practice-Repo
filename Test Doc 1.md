@@ -1,3 +1,4 @@
+WAYNE CHANGED THIS SUCKA!!!!
 This is a Test
 
 Today is March 7. It's almost noon.
@@ -27,6 +28,6 @@ This is a Test.
 2. This is a Test.
 3. This is a Test.
 
-![Edgar](Edgar-sweater.png)
+![Edgar](useravatar.png)
 
 All done.
