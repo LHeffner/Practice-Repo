@@ -5,7 +5,7 @@ Now it's 12:12 and we just talked to Nathaniel.
 
 This is a Test
 
-# Edgar is so cute! 
+# Edgar is so freakin' cute! 
 
 This is NOT a test.
 
